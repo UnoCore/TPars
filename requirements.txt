@@ -1,1 +1,3 @@
-
+telethon
+discord_webhook
+translate
